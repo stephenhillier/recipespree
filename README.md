@@ -2,6 +2,10 @@
 
 > A gif recipe site
 
+Demo site with dummy data (but in an object format that can support data fetched from an API)
+
+![Screenshot](./Screenshot.png)
+
 ## Build Setup
 
 ``` bash
