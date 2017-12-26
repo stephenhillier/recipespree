@@ -86,7 +86,6 @@ export default {
   name: 'Home',
   data () {
     return {
-      msg: 'RecipeSpree!',
       recipes: [
         {
           id: 1,
