@@ -96,7 +96,7 @@ export default {
           url: 'https://gfycat.com/ifr/UltimateEllipticalAmericanrobin?autoplay=0',
           added: 'November 8, 2017',
           stars: 15,
-          is_starred: true
+          is_starred: true // only for display. 
         },
         {
           id: 2,
