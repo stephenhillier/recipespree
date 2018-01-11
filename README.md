@@ -2,7 +2,7 @@
 
 > A gif recipe site
 
-Demo site for an idea.
+Demo site for an animated recipe aggregator.
 
 Populated with dummy data (but in an object format that can support data fetched from an API).
 
